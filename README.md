@@ -2,13 +2,16 @@
   <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif">
   
   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hi there!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/>
   </h1>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/nikita-sakevych/" target="_blanc">
+    <a href="https://www.linkedin.com/in/nikita-sakevych/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://t.me/Nikita_Sakevych" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="LinkedIn Badge"/>
     </a>
   </div>
   
