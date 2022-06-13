@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" height="200px">
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" height="170px">
   
   <h1>
     Hi there!
@@ -14,11 +14,10 @@
   
 </div>
 
-<!-- ---
 ### :man_technologist: About Me :
-
- -->
-
+- 🧔  I'm 22 years old Frontend Developer from Kyiv, Ukraine🇺🇦
+- 💻  Working with JavaScript, Vue.js, Node.js
+- 📖  Currently learning TypeScript
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
