@@ -15,14 +15,14 @@
 </div>
 
 ### :man_technologist: About Me :
-- 🧔  I'm 22 years old Frontend Developer from Kyiv, Ukraine🇺🇦
-- 💻  Working with JavaScript, Vue.js, Node.js
-- 📖  Currently learning TypeScript
+- 🧔  I'm Frontend Developer from Kyiv, Ukraine🇺🇦
+- 💻  Work with JavaScript, TypeScript, Vue.js, Node.js
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
