@@ -15,8 +15,9 @@
 </div>
 
 ### :man_technologist: About Me :
-- 🧔  I'm Frontend Developer from Kyiv, Ukraine🇺🇦
-- 💻  Work with JavaScript, TypeScript, Vue.js, Node.js
+- 🧔  Web-developer
+- 💻  Working with JavaScript, TypeScript, Vue.js, Node.js
+- 🇺🇦  Kyiv, Ukraine
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
